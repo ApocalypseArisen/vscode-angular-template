@@ -4,6 +4,8 @@ Forked from: https://github.com/mralexivy/vscode-angular2-files
 
 Updated to match my personal preference for file structure and to keep it working into the future:
 
+![Extension example video](.github/video/example.gif)
+
 ## Development
 
 Remember to always run:
